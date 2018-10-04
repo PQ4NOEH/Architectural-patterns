@@ -9,3 +9,4 @@ It may bring several beneficts:
 ## References
 
 - [The documents-to-application continuum](https://2018.ar.al/notes/the-documents-to-applications-continuum/) 
+- [microfrontend org](https://micro-frontends.org/)
